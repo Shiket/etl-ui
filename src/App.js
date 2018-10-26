@@ -32,7 +32,7 @@ class App extends Component {
 
                     </div>
                     <div id="data">
-
+                        Data from databasek
                     </div>
             </div>
         );
